@@ -113,3 +113,10 @@ link_checker:
 ## Docs: https://github.com/hexojs/hexo-generator-sitemap
 sitemap:
   path: sitemap.xml
+
+# hexo-generator-feed
+## Docs: https://github.com/hexojs/hexo-generator-feed
+feed:
+    type: atom
+    path: atom.xml
+    limit: 30
