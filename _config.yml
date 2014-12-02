@@ -79,6 +79,8 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
+plugins:
+  - hexo-broken-link-checker
 theme: light
 exclude_generator:
 
@@ -99,3 +101,10 @@ marked:
   breaks: true
   smartLists: true
   smartypants: true
+
+# hexo-broken-link-checker plugin
+## Docs: https://github.com/sergiolepore/hexo-broken-link-checker
+link_checker:
+  enabled: true
+  storage_dir: temp/link_checker
+  silent_logs: false
