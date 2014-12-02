@@ -108,3 +108,8 @@ link_checker:
   enabled: true
   storage_dir: temp/link_checker
   silent_logs: false
+
+# hexo-generator-sitemap
+## Docs: https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
