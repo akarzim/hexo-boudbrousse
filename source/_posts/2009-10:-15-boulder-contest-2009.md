@@ -1,3 +1,6 @@
+layout: photo
+photos:
+- http://farm4.staticflickr.com/3659/3570394045_5d1aa699eb_z.jpg
 title: Boulder contest 2009
 id: 171
 comment: false
