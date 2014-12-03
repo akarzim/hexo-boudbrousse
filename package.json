@@ -10,6 +10,7 @@
     "hexo-renderer-ejs": "*",
     "hexo-renderer-marked": "*",
     "hexo-renderer-stylus": "*",
-    "hexo-tag-flickr": "^0.2.0"
+    "hexo-tag-flickr": "^0.2.0",
+    "hexo-tag-owl": "^0.1.4"
   }
 }
