@@ -124,4 +124,6 @@ feed:
     limit: 30
 
 # Flickr API key
+# Docs: https://www.flickr.com/services/apps/72157647256842734/key/
+# Docs: https://github.com/visioncan/hexo-tag-flickr
 flickr_api_key: 56631e0731f3e9a0058dd9ed06d4dfac
