@@ -78,9 +78,11 @@ disqus_shortname:
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
-## Themes: https://github.com/hexojs/hexo/wiki/Themes
 plugins:
   - hexo-broken-link-checker
+  - hexo-tag-flickr
+
+## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: light
 exclude_generator:
 
@@ -120,3 +122,6 @@ feed:
     type: atom
     path: atom.xml
     limit: 30
+
+# Flickr API key
+flickr_api_key: 56631e0731f3e9a0058dd9ed06d4dfac
